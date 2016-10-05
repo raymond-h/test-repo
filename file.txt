@@ -1,2 +1,3 @@
 This is a cool file!
 This is a cool extra addition!
+Another cool addition!
