@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Error time!"
+echo "No error time!"
 
-exit 1
+exit 0
 
